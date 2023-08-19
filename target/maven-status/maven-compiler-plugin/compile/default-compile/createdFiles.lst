@@ -1,0 +1,4 @@
+com\curso\curso\Model\Task.class
+com\curso\curso\Controller\TodoController.class
+com\curso\curso\CursoApplication.class
+com\curso\curso\Repository\TodoRepository.class
