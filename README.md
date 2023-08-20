@@ -5,4 +5,6 @@ Subí los archivos a este repositorio, con la versión comprimida conteniendo to
 
 Los archivos de Postman estan en un archivo JSON. (El que funciona es el que se encuentra fuera del archivo .rar, por errores subi el equivocado dentro de esa carpeta)
 
+De igual manera también se encuentra la BD de datos utilizada en este proyecto.
+
 Es necesario contar con los programas IntelliJ, JDK Java 20, Postman y MySQL. para que funcione este proyecto.
